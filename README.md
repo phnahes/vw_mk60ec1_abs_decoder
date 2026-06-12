@@ -4,7 +4,7 @@
 This project is a **longcoding decoder** for the **MK60EC1 ABS module**, widely used in **VAG vehicles** (Volkswagen, Audi, Seat, Skoda). It interprets the hexadecimal longcoding and translates it into **human-readable descriptions**, helping users understand the module's configuration.
 
 To access: 
-https://phnahes.github.io/mk60ec1_decoder/
+https://phnahes.github.io/vw_mk60ec1_abs_decoder/
 
 ## Features
 - **Byte-by-byte and bit-by-bit decoding** of MK60EC1 longcoding.
